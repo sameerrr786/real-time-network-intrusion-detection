@@ -3,3 +3,9 @@ scikit-learn
 streamlit
 matplotlib
 joblib
+streamlit
+scapy
+joblib
+pandas
+xgboost
+plotly
